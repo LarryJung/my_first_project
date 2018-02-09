@@ -46,5 +46,5 @@ def NumberBaseBallGame():
             S, B = CountStrikeAndBall(num, answer)
             Play = Evaluation(S, B)
 
-#Let's do the game!
+#Let's do the game!!
 NumberBaseBallGame()
